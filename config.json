@@ -3,17 +3,17 @@
         "presence": {
             "status": "online",
             "activities": [{
-                "name": "Hypixel Server",
+                "name": "NeverPeace",
                 "type": "WATCHING"
             }]
         }
     },
     "minecraft": {
         "servers": [{
-            "name": "Hypixel",
-            "ip": "hypixel.net",
-            "port": 25565,
-            "channelId": "1361757965014798526",
+            "name": "NeverPeace",
+            "ip": "play.neverpeace.xyz",
+            "port": 25572,
+            "channelId": "1359886611738792068",
             "messageId": "1361782035923992848",
             "updateInterval": 30000,
             "display": {
@@ -38,14 +38,11 @@
         },
         "title": "🎮 Minecraft Server Status",
         "footer": {
-            "text": "Made with ❤️ by Team BLK",
+            "text": "Made with ❤️ by Ankit",
             "iconURL": "https://github.com/BLKOFFICIAL.png"
         }
     },
     "credits": {
-        "author": "Team BLK",
-        "youtube": "https://www.youtube.com/@team_blk_official",
-        "discord": "adithyadev.blk",
-        "github": "https://github.com/BLKOFFICIAL"
-    }
+        "author": "Lord Ankit",
+     }
 }
