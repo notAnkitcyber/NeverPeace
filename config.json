@@ -12,7 +12,7 @@
         "servers": [{
             "name": "NeverPeace",
             "ip": "play.neverpeace.xyz",
-            "port": 25572,
+            "port": 25711,
             "channelId": "1359886611738792068",
             "messageId": "1361782035923992848",
             "updateInterval": 30000,
