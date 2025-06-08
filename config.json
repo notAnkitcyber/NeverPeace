@@ -10,16 +10,16 @@
     },
     "minecraft": {
         "servers": [{
-            "name": "Hypixel",
-            "ip": "hypixel.net",
+            "name": "Topper SMP",
+            "ip": "toppersmp.minerack.fun",
             "port": 25565,
-            "channelId": "1361757965014798526",
+            "channelId": "1381309553131389029",
             "messageId": "1361782035923992848",
             "updateInterval": 30000,
             "display": {
                 "type": "banner",
                 "banner": {
-                    "url": "https://cdn.discordapp.com/attachments/1361027416272797959/1361766298492866701/standard.gif?ex=67fff331&is=67fea1b1&hm=a49eee30b71b4252a57c3ac1c19f4d60651ca1959d0e8cde39cbc8f55bfc65fd&",
+                    "url": "https://media.discordapp.net/attachments/1344584613682483200/1381318062191415358/toppersmp.gif?ex=68471431&is=6845c2b1&hm=6b0a1259cc1d5bc8d9ab29eb91af9b886e76902966bdb68348470d8379e7901c&=&width=585&height=75",
                     "enabled": true
                 },
                 "chart": {
@@ -36,16 +36,9 @@
             "online": "#00ff00",
             "offline": "#ff0000"
         },
-        "title": "🎮 Minecraft Server Status",
+        "title": "🎮 Topper SMP Status",
         "footer": {
-            "text": "Made with ❤️ by Team BLK",
+            "text": "Made with ❤️and 🧠by Lord Ankit",
             "iconURL": "https://github.com/BLKOFFICIAL.png"
         }
-    },
-    "credits": {
-        "author": "Team BLK",
-        "youtube": "https://www.youtube.com/@team_blk_official",
-        "discord": "adithyadev.blk",
-        "github": "https://github.com/BLKOFFICIAL"
-    }
 }
