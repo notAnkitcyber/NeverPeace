@@ -3,23 +3,23 @@
         "presence": {
             "status": "online",
             "activities": [{
-                "name": "NeverPeace",
+                "name": "Topper SMP",
                 "type": "WATCHING"
             }]
         }
     },
     "minecraft": {
         "servers": [{
-            "name": "NeverPeace",
-            "ip": "play.neverpeace.xyz",
-            "port": 25711,
-            "channelId": "1359886611738792068",
+            "name": "Topper SMP",
+            "ip": "toppersmp.minerack.fun",
+            "port": 25568,
+            "channelId": "1381309553131389029",
             "messageId": "1361782035923992848",
             "updateInterval": 30000,
             "display": {
                 "type": "banner",
                 "banner": {
-                    "url": "https://media.discordapp.net/attachments/1365196975921959024/1366022071808823426/neverpeace.gif?ex=680f6eb1&is=680e1d31&hm=798e5de35b5b38856f25dae89e86419151f2ee9aec0eadbfd35c585ca5b44c77&=&width=644&height=83",
+                    "url": "https://media.discordapp.net/attachments/1344584613682483200/1381318062191415358/toppersmp.gif?ex=68471431&is=6845c2b1&hm=6b0a1259cc1d5bc8d9ab29eb91af9b886e76902966bdb68348470d8379e7901c&=&width=585&height=75",
                     "enabled": true
                 },
                 "chart": {
@@ -38,7 +38,7 @@
         },
         "title": "🎮 Minecraft Server Status",
         "footer": {
-            "text": "Made with ❤️ by Ankit",
+            "text": "Made with ❤️and 🧠by Lord Ankit",
             "iconURL": "https://github.com/BLKOFFICIAL.png"
         }
     },
