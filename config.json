@@ -12,7 +12,7 @@
         "servers": [{
             "name": "Topper SMP",
             "ip": "toppersmp.minerack.fun",
-            "port": 25565,
+            "port": 25599,
             "channelId": "1381309553131389029",
             "messageId": "1381309553131389029",
             "updateInterval": 30000,
